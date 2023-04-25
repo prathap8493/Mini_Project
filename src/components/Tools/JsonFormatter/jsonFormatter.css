@@ -1,0 +1,7 @@
+.jsonInput{
+    height: 400px !important;
+}
+.jsonOutput{
+    height: 400px !important;
+    overflow: auto;
+}

@@ -1,0 +1,94 @@
+{
+  "name": "nandimandalam-sunny",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@monaco-editor/react": "^4.4.5",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.10.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "bwip-js": "^3.1.0",
+    "chart.js": "^3.9.1",
+    "chroma-js": "^2.4.2",
+    "copy-to-clipboard": "^3.3.1",
+    "draft-js": "^0.11.7",
+    "fix": "^0.0.6",
+    "framer-motion": "^6.3.11",
+    "generate-password": "^1.7.0",
+    "monaco-editor": "^0.33.0",
+    "node-polyfill-webpack-plugin": "^2.0.0",
+    "normalizr": "^3.2.4",
+    "plyr": "^3.7.2",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-checkmark": "^1.4.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.1.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-icons": "^4.4.0",
+    "react-js-pagination": "^3.0.3",
+    "react-json-pretty": "^2.2.0",
+    "react-modal-hover": "^1.1.13",
+    "react-paginate": "^8.1.3",
+    "react-player": "^2.10.1",
+    "react-quill": "^1.3.5",
+    "react-responsive-modal": "^6.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-select": "^3.1.0",
+    "react-share": "^4.4.0",
+    "react-speech-kit": "^3.0.1",
+    "react-toastify": "^9.0.7",
+    "react-tooltip": "^4.2.21",
+    "suneditor": "^2.43.14",
+    "suneditor-react": "^3.4.1",
+    "tesseract.js": "^2.1.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "autoprefixer": "^10.4.7",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "postcss": "^8.4.14",
+    "process": "^0.11.10",
+    "react-app-rewired": "^2.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.0"
+  }
+}

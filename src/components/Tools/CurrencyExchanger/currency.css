@@ -1,0 +1,51 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:100,300';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.min.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css';
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:300,700';
+
+.currencymain{
+    width: 100%;
+    min-height: 92vh;
+    background: linear-gradient(135deg, rgba(247, 202, 201, 1) 0%, rgba(146, 168, 209, 1) 100%);
+    font-family: 'Roboto Mono';
+    letter-spacing: 1px;
+}
+.select{
+    height: 50px;
+    border-radius: 10px;
+}
+
+.currencybody{
+    padding: 100px;
+}
+
+.cc49 {
+    color: #168B48;
+}
+.MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 40px;
+
+}
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+  }
+.inputoutputfields{
+    margin-top: 30px;
+}
+.exchange{
+    background-color: transparent !important;
+    padding: 10px;
+    margin-left: 20px;
+    border: #168B48 2px solid;
+}
+.exvchangebutton{
+    margin: 20px;
+}
+.inputoutputfields input{
+    padding: 10px;
+    width: 100px;
+}

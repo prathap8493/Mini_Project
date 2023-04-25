@@ -1,0 +1,30 @@
+
+.urlShortner{
+    background-color:#3B70D6 ;
+    height: 100vh;
+}
+.urlshortnerimage{
+    border-radius: 20px;
+    margin-left: 70px;
+}
+.urlShortnerInput{
+    padding: 10px;
+    width: 450px;
+    border-radius: 10px;
+}
+.urlShortnerInputButton{
+    margin-left: 10px;
+}
+.urlShortnerHeading{
+    color: #afbfc0;
+}
+.urlShortnerPara{
+    color: white;
+}
+.possibleError{
+    color: red;
+}
+.checkmark{
+    display: inline-block !important;
+    margin-right: 20px;
+}

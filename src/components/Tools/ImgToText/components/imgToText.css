@@ -1,0 +1,28 @@
+.ImgtoText{
+    width: 100%;
+    min-height: 92vh;
+    background: linear-gradient(135deg, rgb(187, 228, 255) 0%, rgb(87, 121, 185) 100%);
+    font-family: 'Roboto Mono';
+    letter-spacing: 1px;
+}
+
+input::file-selector-button {
+    font-weight: bold;
+    color: dodgerblue;
+    padding: 0.5em;
+    border: thin solid grey;
+    border-radius: 3px;
+} 
+.showextracted{
+    margin: auto;
+    width: 500px;
+}
+
+    .backbutton{
+        margin-top: 40px;
+        font-weight: bold;
+        color: dodgerblue;
+        padding: 0.5em;
+        border: thin solid grey;
+        border-radius: 3px;
+    }

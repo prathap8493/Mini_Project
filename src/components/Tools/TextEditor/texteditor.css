@@ -1,0 +1,29 @@
+.sun-editor .se-btn {
+    color: white;
+    align-items: center;
+    background-color: rgb(61, 43, 152);
+    padding: 10px !important;
+    width: 80px;
+    height: 50px;
+    font-size: 13px;
+
+}
+.sun-editor-editable {
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(147, 161, 217);
+    line-height: 1.5;
+    word-break: normal;
+    word-wrap: break-word;
+    padding: 16px;
+    margin: 0;
+}
+.se-btn-tray{
+    background-color: rgb(147, 161, 217);
+
+}
+.texteditormain{
+    background-color: rgb(147, 161, 217);
+
+}
